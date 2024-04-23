@@ -1,7 +1,8 @@
 # IR Assignment 4 Report
 
 ## Model Trained - results
-## Assumptions - To reduce complexity, we have taken 50000 samples from the dataset.
+## Assumptions 
+To reduce complexity, we have taken 50000 samples from the dataset.
 ## Step-wise Explanation of the code
 1. Data Import Configuration:
 This section establishes the setup for importing data from Kaggle. It includes defining constants
