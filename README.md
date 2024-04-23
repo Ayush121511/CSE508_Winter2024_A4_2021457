@@ -83,9 +83,12 @@ list until all sequences are processed.
 Rogue scores
 The test set which consisted of 12500 samples had the following mean ROUGE score for all the
 samples -
+
 'rouge-1': {RECALL: 0.7946693121693122, PRECISION: 0.818880952380952, F1-SCORE:
 0.8007613221107203}
+
 'rouge-2': {RECALL: 0.6603968253968252, PRECISION: 0.6641111111111112, F1-SCORE:
 0.656248801718073}
+
 'rouge-l': {RECALL: 0.7946693121693122, PRECISION: 0.818880952380952, F1-SCORE:
 0.8007613221107203}}
